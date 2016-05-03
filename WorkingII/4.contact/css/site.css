@@ -1,0 +1,87 @@
+.navbar{
+	background-color: rgb(165, 165, 165);
+	border: 1px solid rgb(165, 165, 165); 
+}
+
+
+.active{
+	
+	font-style: italic;
+	font-size: 19px;
+	
+}
+.mapTextRect{
+	background-color: rgb(255, 230, 153);
+	position: absolute;
+	top: 190px;
+	left: 65px;
+}
+.rectPic1{
+	background-color: rgb(116, 96, 60);
+	position: absolute;
+	top: 225px;
+	left: 65px;
+}
+.rectTop{
+	background-color: rgb(116, 96, 60);
+	position: absolute;
+	top: 100px;
+	left: 30px;
+	
+}
+.rectBottom{
+		background-color: rgb(116, 96, 60);
+	position: absolute;
+	top: 884px;
+	left: 0px;
+	
+	
+}
+body{
+	background-color:  rgb(165, 165, 165);
+}
+
+img{
+	position: relative;
+	left: 190px;
+}
+.bottomleft{
+	font-family: apajarita;
+      src: url('/apajarita.ttf');
+	  font-size: 16px;
+	  
+}
+.bottomRight{
+	font-family: apajarita;
+      src: url('/apajarita.ttf');
+	
+	  font-size: 16px;
+}
+.aboutMainText{
+font-size: 22px;
+font-family: Bookman Old Style;
+color: rgb(255, 230, 153)
+}
+
+.rectText{
+	background-color: rgb(116, 96, 60);
+	position: absolute;
+	top: 220px;
+	left: 600px;
+	
+}
+.r1{
+	position: absolute;
+	top: 300px;
+	left: 800px;
+}
+.mapText{
+	font-size: 20px;
+	font-family: Bookman Old Style;
+}
+
+#gmap_canvas{
+    position: absolute;
+    top: 230px;
+    left: 100px;
+}
